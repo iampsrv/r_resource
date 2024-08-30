@@ -1,0 +1,5 @@
+https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf
+
+https://posit.cloud/learn/recipes
+
+https://r4ds.had.co.nz/explore-intro.html
